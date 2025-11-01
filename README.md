@@ -1,4 +1,4 @@
-# Video Assembly Monitor: Dual-Model System with YOLO and EOID for Real-Time and Zero-Shot Assembly Monitoring
+# Video Assembly Monitor with YOLO and EOID for Real-Time & Zero-Shot Monitoring
 
 Welcome to the **Video Assembly Monitor** project! This repository provides the core model pipeline for accurate **hand tracking**, **object detection**, and **action recognition** in manufacturing assembly processes, such as rice cooker assembly. It combines a fast real-time model (YOLO) for online processing and a slow zero-shot model (EOID, a Vision-Language Model) for offline semantic analysis.
 
